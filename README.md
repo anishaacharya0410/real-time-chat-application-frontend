@@ -17,7 +17,6 @@ A lightweight, browser-based real-time chat application built using HTML, CSS, a
 | **HTML**        | Structure of the chat interface           |
 | **CSS**         | Styling and layout of UI components       |
 | **JavaScript**  | DOM manipulation, event handling, logic  |
-| **localStorage** *(optional)* | Temporary message persistence across sessions |
 
 📌 Limitations
 
